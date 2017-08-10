@@ -1,0 +1,38 @@
+/* add your CSS here */
+.Penguin-card{
+	/*border-radius: 5px;*/
+	width: 325px;
+	height: 575px;
+	box-shadow: 10px 10px 8px -4px;
+	color: #110019;
+	border: groove;
+	padding-right: 2em;	
+	background-color: #34CABA;
+	padding: 1em;
+	text-align: justify;
+
+}
+
+.heading{
+	text-align: center;
+}
+
+.profile {
+	width: 265px;
+	height:290px;
+	border: groove;
+	padding: 1em;
+	padding-top: 1px; 
+}
+
+.fact{
+	font-style: italic;
+}
+.no-bullets{
+  list-style-type: none;
+  padding: 0;
+}
+./*description{
+	color: #FF00DC
+	text-align: justify;
+}*/
